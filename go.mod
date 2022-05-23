@@ -10,13 +10,13 @@ require (
 	github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516
 	github.com/aquasecurity/tfsec v0.58.11
 	github.com/aws/aws-sdk-go v1.40.49
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.16+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-redis/redis/v8 v8.11.3
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/flatbuffers v1.12.1 // indirect
-	github.com/google/go-containerregistry v0.6.0
+	github.com/google/go-containerregistry v0.9.0
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-hclog v0.15.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
@@ -30,7 +30,7 @@ require (
 	github.com/moby/buildkit v0.8.1
 	github.com/open-policy-agent/opa v0.32.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
+	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
 	github.com/saracen/walker v0.0.0-20191201085201-324a081bae7e
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/stretchr/testify v1.7.0
@@ -39,8 +39,8 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/zap v1.19.1
-	golang.org/x/mod v0.5.1
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3
+	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
+	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f
 	sigs.k8s.io/yaml v1.3.0
 )
