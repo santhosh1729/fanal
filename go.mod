@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 	github.com/BurntSushi/toml v1.1.0 // indirect
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
-	github.com/alicebob/miniredis/v2 v2.21.0
+	github.com/alicebob/miniredis/v2 v2.22.0
 	github.com/aquasecurity/defsec v0.68.1
 	github.com/aquasecurity/go-dep-parser v0.0.0-20220607141748-ab2deea55bdf
 	github.com/aquasecurity/go-version v0.0.0-20210121072130-637058cfe492
